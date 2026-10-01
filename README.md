@@ -8,7 +8,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&pause=1000&color=00FF41&background=000000&center=false&vCenter=false&width=800&height=140&lines=byron@root:~$+cat+/sys/info/about_me.txt;%3E+Ingeniero+en+Ciencias+de+la+Computacion;%3E+Especializado+en+Desarrollo+Full-Stack+y+Mobile;%3E+Fusionando+estructuras+de+datos+robustas;%3E+con+interfaces+intuitivas+y+escalables.&multiline=true" alt="About Me Console" style="border: 1px solid #00FF41; border-radius: 5px;" />
 </div>
 
-<br>
 
 <!-- Enlaces de Contacto y Portafolio Estilo Neón -->
 <div align="center">
