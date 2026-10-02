@@ -41,7 +41,7 @@
 
 > **📍 Waygo: Exploración Urbana Impulsada por IA**  
 > `[ Stack: Flutter | Dart | AI ]`  
-> Aplicación móvil diseñada para turistas y residentes locales que facilita el descubrimiento de ciudades. Waygo integra inteligencia artificial para recomendar lugares de interés, eventos, actividades y sitios cercanos basándose en la ubicación y preferencias del usuario. Actualmente liderando el desarrollo del ecosistema móvil y la experiencia de usuario nativa multiplataforma.  
+> Aplicación móvil diseñada para turistas y residentes locales que facilita el descubrimiento de ciudades. Waygo integra inteligencia artificial para recomendar lugares de interés, eventos, actividades y sitios cercanos basándose en la ubicación y preferencias del usuario.
 > <br>
 > <img src="https://img.shields.io/badge/🔒_Repositorio_Privado-En_Desarrollo-000000?style=for-the-badge&color=000000&labelColor=00FF41" alt="Repositorio Privado" />
 
