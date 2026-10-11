@@ -53,7 +53,7 @@
 > `[ Stack: Confidencial ]`  
 > Plataforma digital orientada al sector salud, enfocada en centralizar y agilizar la gestión de información clínica y administrativa de forma segura. Actualmente en construcción junto a un equipo de desarrollo; los detalles técnicos se mantienen privados durante esta etapa.
 > <br>
-> <img src="https://img.shields.io/badge/🔒_Repositorio_Privado-En_Construcción-000000?style=for-the-badge&color=000000&labelColor=00FF41" alt="Repositorio Privado" />
+> <img src="https://img.shields.io/badge/🔒_Repositorio_Privado-En_Desarrollo-000000?style=for-the-badge&color=000000&labelColor=00FF41" alt="Repositorio Privado" />
 
 <br><hr><br>
 
