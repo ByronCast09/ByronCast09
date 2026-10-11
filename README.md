@@ -45,28 +45,71 @@
 > <br>
 > <img src="https://img.shields.io/badge/🔒_Repositorio_Privado-En_Desarrollo-000000?style=for-the-badge&color=000000&labelColor=00FF41" alt="Repositorio Privado" />
 
+<br>
+
+### 🩺 `./procesos_en_ejecucion/healthcore.sh`
+
+> **🧬 HealthCore: Plataforma de Gestión en Salud**  
+> `[ Stack: Confidencial ]`  
+> Plataforma digital orientada al sector salud, enfocada en centralizar y agilizar la gestión de información clínica y administrativa de forma segura. Actualmente en construcción junto a un equipo de desarrollo; los detalles técnicos se mantienen privados durante esta etapa.
+> <br>
+> <img src="https://img.shields.io/badge/🔒_Repositorio_Privado-En_Construcción-000000?style=for-the-badge&color=000000&labelColor=00FF41" alt="Repositorio Privado" />
+
 <br><hr><br>
 
 ### 💼 `~/trayectoria_y_experiencia`
 
-<div align="center">
-  <!-- Tarjetas Dinámicas de GitHub: Fondo negro y bordes neón forzados por API -->
-  <a href="https://github.com/ByronCast09/TesisUTPL">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ByronCast09&repo=TesisUTPL&bg_color=000000&text_color=00FF41&title_color=00FF41&border_color=00FF41&icon_color=00FF41&layout=compact" alt="Tesis UTPL" width="48%" />
-  </a>
-  <a href="https://github.com/KepaSoftwareEc/Checklist-de-Estado-de-Campus">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=KepaSoftwareEc&repo=Checklist-de-Estado-de-Campus&bg_color=000000&text_color=00FF41&title_color=00FF41&border_color=00FF41&icon_color=00FF41&layout=compact" alt="Checklist Campus" width="48%" />
-  </a>
-</div>
-<br>
-<div align="center">
-  <a href="https://github.com/ByronCast09/Reto-New-Wave-Forex">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ByronCast09&repo=Reto-New-Wave-Forex&bg_color=000000&text_color=00FF41&title_color=00FF41&border_color=00FF41&icon_color=00FF41&layout=compact" alt="New Wave Forex" width="48%" />
-  </a>
-  <a href="https://github.com/ByronCast09/Ecolac">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ByronCast09&repo=Ecolac&bg_color=000000&text_color=00FF41&title_color=00FF41&border_color=00FF41&icon_color=00FF41&layout=compact" alt="Ecolac" width="48%" />
-  </a>
-</div>
+<!-- Tarjetas Dinámicas de GitHub con descripción: Fondo negro y bordes neón forzados por API -->
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/ByronCast09/TesisUTPL">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ByronCast09&repo=TesisUTPL&bg_color=000000&text_color=00FF41&title_color=00FF41&border_color=00FF41&icon_color=00FF41&layout=compact" alt="Tesis UTPL" width="100%" />
+      </a>
+      <br>
+      <b>🎓 UTPL Climate Observatory · Trabajo de Titulación</b>
+      <br>
+      <code>React · Vite · Tailwind · Node.js · PostgreSQL · Recharts</code>
+      <br><br>
+      Plataforma web para el monitoreo climático de la UTPL. Un backend en Node.js sincroniza automáticamente los datos e imágenes de las estaciones, los almacena en PostgreSQL y los expone a un visor interactivo con datos históricos y análisis gráfico de variables meteorológicas.
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/KepaSoftwareEc/Checklist-de-Estado-de-Campus">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=KepaSoftwareEc&repo=Checklist-de-Estado-de-Campus&bg_color=000000&text_color=00FF41&title_color=00FF41&border_color=00FF41&icon_color=00FF41&layout=compact" alt="Checklist Campus" width="100%" />
+      </a>
+      <br>
+      <b>📋 Checklist de Estado de Campus · Frontend Developer</b>
+      <br>
+      <code>React Native · Expo · JavaScript</code>
+      <br><br>
+      Aplicación móvil desarrollada en equipo (NODTECH) para registrar y dar seguimiento al estado de aulas, laboratorios y demás espacios del campus universitario, reemplazando las verificaciones en papel por checklists digitales.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/ByronCast09/Reto-New-Wave-Forex">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ByronCast09&repo=Reto-New-Wave-Forex&bg_color=000000&text_color=00FF41&title_color=00FF41&border_color=00FF41&icon_color=00FF41&layout=compact" alt="New Wave Forex" width="100%" />
+      </a>
+      <br>
+      <b>📈 Reto New Wave Forex · <a href="https://reto-new-wave-forex.vercel.app">Demo</a></b>
+      <br>
+      <code>Python · Django · SQLite · Vercel</code>
+      <br><br>
+      Rediseño completo del sitio de una academia de trading. Incluye gestión de usuarios, suscripciones y pagos por producto, control de acceso a plataformas de aprendizaje y videos, y un panel administrativo.
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/ByronCast09/Ecolac">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ByronCast09&repo=Ecolac&bg_color=000000&text_color=00FF41&title_color=00FF41&border_color=00FF41&icon_color=00FF41&layout=compact" alt="Ecolac" width="100%" />
+      </a>
+      <br>
+      <b>🥛 Ecolac · Sistema de Quejas</b>
+      <br>
+      <code>PHP · MySQL · HTML/CSS</code>
+      <br><br>
+      Sistema web para la recepción y gestión de quejas de clientes. Cuenta con validación de acceso por roles y un módulo administrativo para revisar, clasificar y dar seguimiento a cada caso.
+    </td>
+  </tr>
+</table>
 
 <br><hr><br>
 
