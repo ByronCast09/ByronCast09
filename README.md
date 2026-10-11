@@ -11,7 +11,7 @@
 
 <!-- Enlaces de Contacto y Portafolio Estilo Neón -->
 <div align="center">
-  <a href="https://magic-portfolio-for-next-js-q1th.vercel.app.-"><img src="https://img.shields.io/badge/-Portafolio_Personal-000000?style=for-the-badge&logo=vercel&logoColor=00FF41&borderColor=00FF41" alt="Portfolio" /></a>
+  <a href="https://magic-portfolio-for-next-js-q1th.vercel.app"><img src="https://img.shields.io/badge/-Portafolio_Personal-000000?style=for-the-badge&logo=vercel&logoColor=00FF41&borderColor=00FF41" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/byron-josu%C3%A9-castillo-paladines-7914a729a"><img src="https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FF41" alt="LinkedIn" /></a>
   <a href="mailto:byronjosue14z@gmail.com"><img src="https://img.shields.io/badge/-Email-000000?style=for-the-badge&logo=gmail&logoColor=00FF41" alt="Email" /></a>
 </div>
